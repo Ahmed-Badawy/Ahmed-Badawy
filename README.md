@@ -85,7 +85,7 @@
 
 - <a  href="https://www.linkedin.com/in/ahmed-badawy/" target="_blank">LinkedIn: (Ahmed-Badawy)</a>
 
-- <a  href="callto:+201111988246" target="_blank">Skype: (Ahmed.Badawy.X)</a> <a href="callto:Ahmed.Badawy.X" target="_blank" align="center">
+- <a  href="callto:+201111988246" target="_blank">Skype: (Ahmed.Badawy.X)</a> <a href="skype:Ahmed.Badawy.X?chat" target="_blank" align="center">
   <img width="30px" align="center" src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/skype.svg" />
   </a>
 
