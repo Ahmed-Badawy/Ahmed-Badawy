@@ -67,7 +67,7 @@
   (PWA)](https://geturapps.com/daily-helper/)
   <small>
   A collection of useful APPs & Tools to help you in your daily tasks. no need
-  to install a millon APPs & tools. Just one website to solve them all.
+  to install a million APPs. Just one website to solve them all.
   </small >
 - 🎞️ I publish videos in my [Youtube
   Chennel](https://youtube.com/channel/UCgsWgxofeLxi047MdZsYoiA)
