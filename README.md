@@ -79,7 +79,7 @@
 
 - 📧Email: Ahmed.Badawy.Elsaid@gmail.com or Badawy@GetUrAPPs.com
 
-- 🤙WhatsApp & Phone Number: <a  href="tel:00201111988246" target="_blank">+201111988246</a> OR <a href="https://wa.me/201111988246?text=Hello" target="_blank" align="center">
+- <a href="tel:+201111988246" target="_blank">Phone Number: +201111988246</a> OR <a href="https://wa.me/201111988246?text=Hello" target="_blank" align="center">
   <img width="30px" align="center" src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/whatsapp.svg" />
   </a>
 
