@@ -1,10 +1,10 @@
 <h1 align="center">
 	Hello! I'm
-	<a href="https://geturapps.com/cv/" target="_blank">Ahmed Badawy</a> .
+	<a href="https://geturapps.com/intro/" target="_blank">Ahmed Badawy</a> .
 </h1>
 
 <p align="center">
-<a href="https://geturapps.com/cv/" target="_blank" align="center">
+<a href="https://geturapps.com/intro/" target="_blank" align="center">
     <img width="50px" align="center" src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/cv.svg" />
 </a>
 
@@ -55,7 +55,7 @@
 
 ---
 
-<a  href="https://geturapps.com/cv/" target="_blank">
+<a  href="https://geturapps.com/intro/" target="_blank">
 	<img
 		width="35%"
 		align="right"
