@@ -40,7 +40,7 @@
 <img width="50px" align="center" src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://youtube.com/channel/UCgsWgxofeLxi047MdZsYoiA" target="_blank" align="center" >
+<a href="https://www.youtube.com/@CrashCourseGuy" target="_blank" align="center" >
 <img width="50px" align="center" src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/youtube.svg" />
 </a>
 
@@ -70,7 +70,7 @@
   to install a million APPs. Just one website to solve them all.
   </small >
 - 🎞️ I publish videos in my [Youtube
-  Chennel](https://youtube.com/channel/UCgsWgxofeLxi047MdZsYoiA)
+  Chennel @CrashCourseGuy](https://www.youtube.com/@CrashCourseGuy)
 - 💬 Ask me about
   JavaScript, PHP (React, Koa, Laravel)
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm always looking for a new opportunities
