@@ -72,7 +72,7 @@
 - 🎞️ I publish videos in my [Youtube
   Chennel @CrashCourseGuy](https://www.youtube.com/@CrashCourseGuy)
 - 💬 Ask me about
-  JavaScript, PHP (React, Koa, Laravel)
+  JavaScript, PHP (React, Express, Laravel)
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm always looking for a new opportunities
 
 ##### you can always contact me at: <br />
@@ -109,7 +109,7 @@
 <code>
     <img
         width="10%"
-        src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg"
+        src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
 /></code>
 <code>
     <img
