@@ -63,6 +63,8 @@
 	/>
 </a>
 
+![](https://komarev.com/ghpvc/?username=Ahmed-Badawy&color=blue)
+
 - 💻 I’m currently working on [The Daily Helper
   (PWA)](https://geturapps.com/daily-helper/)
   <small>
