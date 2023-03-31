@@ -87,9 +87,6 @@
 
 - <a  href="https://www.linkedin.com/in/ahmed-badawy/" target="_blank">LinkedIn: (Ahmed-Badawy)</a>
 
-- <a  href="callto:+201111988246" target="_blank">Skype: (Ahmed.Badawy.X)</a> <a href="skype:Ahmed.Badawy.X?chat" target="_blank" align="center">
-  <img width="30px" align="center" src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/skype.svg" />
-  </a>
 
 <details align="center">
 	<summary>
@@ -101,10 +98,6 @@
 			align="right"
 			src="https://github-readme-stats.vercel.app/api?username=Ahmed-Badawy&show_icons=true&count_private=true&hide_border=true"
 		/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)(https://git.io/streak-stats)
-
-		</hr>
 
 ### Languages and Tools:
 
@@ -149,6 +142,11 @@
     ><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"
 /></code>
 <br /><br />
+		
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed-Badawy)](https://git.io/streak-stats)
+
+		
+		
 <h6 align="center">
     سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ
     أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
