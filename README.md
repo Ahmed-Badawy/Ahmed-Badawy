@@ -93,12 +93,10 @@
 		<b> Things to know about me! </b> <i>(click to expand!)</i></summary
 	>
 	<div>
-
 		<img
 			align="right"
 			src="https://github-readme-stats.vercel.app/api?username=Ahmed-Badawy&show_icons=true&count_private=true&hide_border=true"
 		/>
-
 ### Languages and Tools:
 
 <code>
