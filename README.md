@@ -102,8 +102,9 @@
 			src="https://github-readme-stats.vercel.app/api?username=Ahmed-Badawy&show_icons=true&count_private=true&hide_border=true"
 		/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed-Badawy)](https://www.linkedin.com/in/Ahmed-Badawy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
+		<hr />
 
 ### Languages and Tools:
 
