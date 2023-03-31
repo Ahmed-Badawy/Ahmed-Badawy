@@ -96,10 +96,14 @@
 		<b> Things to know about me! </b> <i>(click to expand!)</i></summary
 	>
 	<div>
+
 		<img
 			align="right"
 			src="https://github-readme-stats.vercel.app/api?username=Ahmed-Badawy&show_icons=true&count_private=true&hide_border=true"
 		/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed-Badawy)](https://www.linkedin.com/in/Ahmed-Badawy)
+
 
 ### Languages and Tools:
 
