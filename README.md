@@ -1,6 +1,6 @@
 <h1 align="center">
 	Hello! I'm
-	<a href="https://geturapps.com/intro/" target="_blank">Ahmed Badawy</a> .
+	<a href="https://geturapps.com/intro/" target="_blank">Ahmed Badawy</a>
 </h1>
 
 <p align="center">
