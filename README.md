@@ -1,3 +1,7 @@
+<a href="https://github.com/MilkFlavor">
+    <img src="https://www.shutterstock.com/image-photo/marketing-conceptperson-using-laptop-computer-260nw-1789428710.jpg">
+</a>
+
 <h1 align="center">
 	Hello! I'm
 	<a href="https://geturapps.com/intro/" target="_blank">Ahmed Badawy</a>
@@ -88,71 +92,85 @@
 - <a  href="https://www.linkedin.com/in/ahmed-badawy/" target="_blank">LinkedIn: (Ahmed-Badawy)</a>
 
 
-<details align="center">
-	<summary>
-		<b> Things to know about me! </b> <i>(click to expand!)</i></summary
-	>
-	<div>
-		<img
-			align="right"
-			src="https://github-readme-stats.vercel.app/api?username=Ahmed-Badawy&show_icons=true&count_private=true&hide_border=true"
-		/>
-### Languages and Tools:
 
-<code>
-    <img
-        width="10%"
-        src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
-/></code>
-<code>
-    <img
-        width="10%"
-        src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
-/></code>
-<code>
-    <img
-        width="10%"
-        src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"
-/></code>
-<code>
-    <img
-        width="10%"
-        src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"
-/></code>
-<code>
-    <img
-        width="10%"
-        src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
-/></code>
-<br /><br />
-<h2 align="center">I Live & Breathe</h2>
-<code
-    ><img
-        width="10%"
-        src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"
-/></code>
-<code
-    ><img
-        width="10%"
-        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
-/></code>
-<code
-    ><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"
-/></code>
-<br /><br />
-		
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed-Badawy)](https://git.io/streak-stats)
 
-		
-		
+
+<h1 align="center"> 🔧 Skills & Tools: </h1>
+<p align="center">
+  
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a> 
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
+  </a> 
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  </a>
+  <a href="https://www.tenserflow.org">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>
+  <a href="https://www.github.com">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
+  <a href="https://www.npm.com">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  </a>
+  <a href="http://php.net/">
+    <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  </a>
+
+<h1 align="center"> 📈 Statistics: </h1>
+<p align="center">
+  <a href="https://geturapps.com/intro/">
+  <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Badawy&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=559bde"/>
+  <img width="49.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Badawy&background=559bde&hide_border=true&ring=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=7dace3&currStreakNum=ffffff" />
+  </a>
+</p>
+
+
+---
+<details>
+<summary>Contact Me</summary>
+		  
+  <a href="https://www.linkedin.com/in/Ahmed-Badawy">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Ahmed-Badawy">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@CrashCourseGuy">
+    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+	
+	
 <h6 align="center">
     سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ
     أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
 </h6>
-</div>
 
-## </details>
+</details>
 
 <h6 align="center">
 	👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
 </h6>
+
+
