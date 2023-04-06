@@ -16,13 +16,13 @@
     <img width="50px" align="center" src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/whatsapp.svg" />
 </a>
 
-<a href="https://www.facebook.com/Badawy.A7mad" target="_blank" align="center">
+<!-- <a href="https://www.facebook.com/Badawy.A7mad" target="_blank" align="center">
     <img
         width="50px"
         align="center"
         src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/facebook.svg"
     />
-</a>
+</a> -->
 
 <a href="http://instagram.com/badawy.a7mad/" target="_blank" align="center">
     <img
@@ -32,13 +32,13 @@
     />
 </a>
 
-<a href="https://twitter.com/Badawy_A7mad/" target="_blank" align="center">
+<!-- <a href="https://twitter.com/Badawy_A7mad/" target="_blank" align="center">
     <img
         width="50px"
         align="center"
         src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/twitter.svg"
     />
-</a>
+</a> -->
 
 <a href="https://linkedin.com/in/Ahmed-Badawy/" target="_blank" align="center"> 
 <img width="50px" align="center" src="https://github.com/Ahmed-Badawy/Ahmed-Badawy/blob/master/assets/linkedin.svg" />
